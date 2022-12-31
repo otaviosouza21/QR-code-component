@@ -9,6 +9,7 @@ body{
     min-height: 100vh;
     background:hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    margin: 0 auto;
 }
 
 .card{
@@ -20,6 +21,7 @@ body{
      border-radius: 15px;
     text-align: center;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin: 0 auto;
 }
 .card img{
     border-radius: 17px;
