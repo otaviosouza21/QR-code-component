@@ -10,4 +10,5 @@
 #### - CSS
 
 Acesse o [Resultado do deafio](https://otaviosouza21.github.io/QR-code-component/)
-Acesse o [Desafio Fronend Mento](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+
+Acesse o [Desafio Fronend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
